@@ -9,7 +9,7 @@ on:
 
 jobs:
   build:
-    if: github.repository == 'manu-180/ultima_prueba'
+    if: github.repository == 'manu-180/probando'
     runs-on: windows-latest
     permissions:
       contents: write
